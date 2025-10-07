@@ -104,4 +104,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Yash Tomar** - [@yourhandle](https://twitter.com/yourhandle) - karanyash2@gmail.com
 
-**Project Link:** [https://github.com/Yyash64/tenzies-game](https://github.com/Yyash64/tenzies-game)
+**Project Link:** [https://github.com/Yyash64/tenzies-game](https://github.com/Yyash64/tenzies)
