@@ -50,11 +50,11 @@ Make sure you have Node.js and npm installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/tenzies-game.git](https://github.com/your-username/tenzies-game.git)
+    git clone [https://github.com/Yyash64/tenzies.git](https://github.com/Yyash64/tenzies.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd tenzies-game
+    cd tenzies
     ```
 3.  **Install NPM packages:**
     ```bash
@@ -108,6 +108,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-**Your Name** - [@yourhandle](https://twitter.com/yourhandle) - your.email@example.com
+**Yash Tomar** - [Github](https://github.com/Yyash64/) - karanyash2@gmail.com
 
-**Project Link:** [https://github.com/your-username/tenzies-game](https://github.com/your-username/tenzies-game)
+**Project Link:** [https://github.com/Yyash64/tenzies](https://github.com/your-username/tenzies)
