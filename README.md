@@ -43,12 +43,13 @@ Make sure you have Node.js and npm installed on your machine.
 ### Installation
 
 1.  **Clone the repository:**
-    ```bash
+    ```markdown
+```bash
     git clone [https://github.com/Yyash64/tenzies-game.git](https://github.com/Yyash64/tenzies-game.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd tenzies-game
+    cd tenzies
     ```
 3.  **Install NPM packages:**
     ```bash
