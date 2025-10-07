@@ -4,6 +4,12 @@ A fun and simple dice game built with **React**! The goal is to roll until all d
 
 ---
 
+### **[Live Demo](https://your-live-demo-link.com) • [Report Bug](https://github.com/your-username/tenzies-game/issues) • [Request Feature](https://github.com/your-username/tenzies-game/issues)**
+
+![Tenzies Game Screenshot](https://your-image-link-here.com/screenshot.png)
+*(A placeholder for your game screenshot or GIF)*
+
+---
 
 ## 🚀 Features
 
@@ -43,13 +49,12 @@ Make sure you have Node.js and npm installed on your machine.
 ### Installation
 
 1.  **Clone the repository:**
-    ```markdown
-```bash
-    git clone [https://github.com/Yyash64/tenzies-game.git](https://github.com/Yyash64/tenzies-game.git)
+    ```bash
+    git clone [https://github.com/your-username/tenzies-game.git](https://github.com/your-username/tenzies-game.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd tenzies
+    cd tenzies-game
     ```
 3.  **Install NPM packages:**
     ```bash
@@ -103,6 +108,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-**Yash Tomar** - [@Github](https://github.com/Yyash64) - karanyash2@gmail.com
+**Your Name** - [@yourhandle](https://twitter.com/yourhandle) - your.email@example.com
 
-**Project Link:** [https://github.com/Yyash64/tenzies](https://github.com/Yyash64/tenzies)
+**Project Link:** [https://github.com/your-username/tenzies-game](https://github.com/your-username/tenzies-game)
