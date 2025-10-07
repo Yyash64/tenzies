@@ -44,7 +44,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/tenzies-game.git](https://github.com/Yyash64/tenzies-game.git)
+    git clone [https://github.com/Yyash64/tenzies-game.git](https://github.com/Yyash64/tenzies-game.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -102,6 +102,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-**Yash Tomar** - [@yourhandle](https://twitter.com/yourhandle) - karanyash2@gmail.com
+**Yash Tomar** - [@Github](https://github.com/Yyash64) - karanyash2@gmail.com
 
-**Project Link:** [https://github.com/Yyash64/tenzies-game](https://github.com/Yyash64/tenzies)
+**Project Link:** [https://github.com/Yyash64/tenzies](https://github.com/Yyash64/tenzies)
